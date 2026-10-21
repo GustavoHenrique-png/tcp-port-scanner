@@ -1,4 +1,4 @@
-# Hacking-Project
+# tcp-port-scanner
 
 **Estudos de segurança da informação e redes com Python e Bash.**
 
@@ -58,7 +58,7 @@ Essa é uma saída ilustrativa. O resultado depende dos serviços ativos e das c
 ## Estrutura
 
 ```text
-Hacking-Project/
+tcp-port-scanner/
 ├── PortScan/
 │   ├── haknox.sh        # Scanner TCP com Python executado por Bash
 │   └── aprendizado.sh   # Rascunho de estudo, ainda sem lógica de varredura
